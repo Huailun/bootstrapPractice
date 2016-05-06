@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e45ea4d8-fc04-44d9-bb4f-8e856ea1dd4c" name="bootstrapPractice" url="https://bootcamp-coders.cnm.edu/~eliu1/public_html/bootstrapPractice">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" privateKey="C:\Users\Ellen\Desktop\bootCamp\ssh-keu.openssh" rootFolder="/home/eliu1/public_html/bootstrapPractice" accessType="SFTP" passphrase="dfdadfc3dfcbdfc4dfc5dfdadfd8dfcbdfc3dfd9dfcf" username="eliu1" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
